@@ -1,0 +1,10 @@
+Góc phân tích
+
+Cần phải chia nhỏ các Components ra
+Từ các Components trong App.jsx 
+App.jsx 
+    Header.jsx
+    Example.jsx
+        Section.jsx
+            Tab.jsx
+                TabButton.jsx
